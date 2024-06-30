@@ -2,7 +2,7 @@
 
 I'm Valerie, an ML engineer based in Russia.
 
-I like science and enjoy parsing scientific articles. <br/>
+I like science and enjoy keep up with new developments in the field by reading scientific articles. <br/>
 Outside of work, I'm interested in furthering my knowledge in Data Science by doing projects.
 
 My main soft skills include the ability to structure information in a qualitative way, learn new material quickly and understand the algorithm of work and processes.
