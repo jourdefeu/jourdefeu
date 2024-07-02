@@ -1,4 +1,4 @@
-### Hi there! <img src="https://github.com/jourdefeu/jourdefeu/assets/157377780/a4b0844e-5933-4d95-aa7c-553f3f6b01ec" width="25" height="25"> 
+### Hi there! <img src="https://github.com/jourdefeu/jourdefeu/assets/157377780/a4b0844e-5933-4d95-aa7c-553f3f6b01ec" width="26" height="26"> 
 
 I'm Valerie, an ML engineer based in Russia.
 
