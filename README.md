@@ -27,3 +27,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<!--
+ctrl + E --для цитирования кода
+-->
