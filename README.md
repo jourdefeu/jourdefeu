@@ -7,7 +7,7 @@ Outside of work, I'm interested in furthering my knowledge in Data Science by do
 
 My main soft skills include the ability to structure information in a qualitative way, learn new material quickly and understand the algorithm of work and processes.
 
-#### <img src="https://github.com/jourdefeu/summarize-text/assets/157377780/9c580d9d-aaa3-4ced-b4af-20cdf0d19412" width="45" height="45"> Some Facts:
+#### <img src="https://github.com/user-attachments/assets/ff7b90a1-b215-476e-aa1b-de06a74348e3" width="45" height="45"> Some Facts:
 
 - I like tennis
 - I'm into Italian lifestyle 
