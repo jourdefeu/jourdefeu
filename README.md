@@ -11,7 +11,7 @@ My main soft skills include the ability to structure information in a qualitativ
 
 - I like tennis
 - I'm into Italian lifestyle 
-- Chocolate manufacture was my sole non-IT job place
+- Chocolate manufacture was my sole non-IT job
 
 <!--
 **jourdefeu/jourdefeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
