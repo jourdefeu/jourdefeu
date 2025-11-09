@@ -12,7 +12,8 @@ My main soft skills include the ability to structure information in a qualitativ
 #### <img src="https://github.com/user-attachments/assets/ff7b90a1-b215-476e-aa1b-de06a74348e3" width="45" height="45"> Some Facts:
 
 - I like tennis
-- I'm into Italian lifestyle 
+- I'm into Italian lifestyle
+- I've seen chocolate manufacture from the inside
 
 <!--
 **jourdefeu/jourdefeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
